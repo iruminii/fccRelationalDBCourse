@@ -3,8 +3,8 @@
 
 bash, SQL
 
-1. [Number Guessing Game]()
-2. [Celestial Bodies Database]()
-3. [World Cup Database]()
-4. [Salon Appointment Scheduler]()
-5. [Periodic Table Database]()
+1. [Number Guessing Game](https://github.com/iruminii/fccRelationalDBCourse/tree/main/numbers)
+2. [Celestial Bodies Database](https://github.com/iruminii/fccRelationalDBCourse/tree/main/universe)
+3. [World Cup Database](https://github.com/iruminii/fccRelationalDBCourse/tree/main/worldcup)
+4. [Salon Appointment Scheduler](https://github.com/iruminii/fccRelationalDBCourse/tree/main/salon)
+5. [Periodic Table Database](https://github.com/iruminii/fccRelationalDBCourse/tree/main/period)
